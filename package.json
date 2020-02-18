@@ -1,0 +1,24 @@
+{
+  "name": "simple-api",
+  "version": "1.0.0",
+  "description": "Hi!",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.16.0",
+    "lowdb": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyler-401-advanced-javascript/simple-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyler-401-advanced-javascript/simple-api/issues"
+  },
+  "homepage": "https://github.com/tyler-401-advanced-javascript/simple-api#readme"
+}
